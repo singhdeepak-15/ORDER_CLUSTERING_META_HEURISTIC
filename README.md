@@ -13,3 +13,7 @@ can be selected from the popup menu
 the detail implementation of the model can be reffered from 
 
 Kuo, R. J., and L. M. Lin. "Application of a hybrid of genetic algorithm and particle swarm optimization algorithm for order clustering." Decision Support Systems 49.4 (2010): 451-462.
+
+for nay related query you may contact via email 
+
+singhdeepak.15@gmail.com
